@@ -1,122 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad482f30-003f-4f82-b401-a3ea90d7b5bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Search.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/components/search.js" afterPath="" />
+    <list default="true" id="9a88c0a6-25ab-4306-b6fa-8a0aa346501a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/gql" afterPath="$PROJECT_DIR$/server/node_modules/.bin/gql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/graphql" afterPath="$PROJECT_DIR$/server/node_modules/.bin/graphql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/npm-run-all" afterPath="$PROJECT_DIR$/server/node_modules/.bin/npm-run-all" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/prisma" afterPath="$PROJECT_DIR$/server/node_modules/.bin/prisma" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/prisma-binding" afterPath="$PROJECT_DIR$/server/node_modules/.bin/prisma-binding" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/run-p" afterPath="$PROJECT_DIR$/server/node_modules/.bin/run-p" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/.bin/run-s" afterPath="$PROJECT_DIR$/server/node_modules/.bin/run-s" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/@babel/generator/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/server/node_modules/@babel/generator/node_modules/.bin/jsesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/@kbrandwijk/swagger-to-graphql/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/@kbrandwijk/swagger-to-graphql/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/apollo-codegen/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/server/node_modules/apollo-codegen/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/apollo-codegen/node_modules/graphql-config/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/apollo-codegen/node_modules/graphql-config/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/aws-sdk/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/aws-sdk/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/cosmiconfig/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/cosmiconfig/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/cross-spawn/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/cross-spawn/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/decompress-tarbz2/node_modules/.bin/seek-bunzip" afterPath="$PROJECT_DIR$/server/node_modules/decompress-tarbz2/node_modules/.bin/seek-bunzip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/decompress-tarbz2/node_modules/.bin/seek-table" afterPath="$PROJECT_DIR$/server/node_modules/decompress-tarbz2/node_modules/.bin/seek-table" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/eventemitter3/README.md" afterPath="$PROJECT_DIR$/server/node_modules/eventemitter3/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/eventemitter3/index.d.ts" afterPath="$PROJECT_DIR$/server/node_modules/eventemitter3/index.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/eventemitter3/index.js" afterPath="$PROJECT_DIR$/server/node_modules/eventemitter3/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/eventemitter3/package.json" afterPath="$PROJECT_DIR$/server/node_modules/eventemitter3/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/eventemitter3/umd/eventemitter3.min.js" afterPath="$PROJECT_DIR$/server/node_modules/eventemitter3/umd/eventemitter3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/global-prefix/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/global-prefix/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphcool-yml/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/graphcool-yml/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-binding/node_modules/.bin/ts-node" afterPath="$PROJECT_DIR$/server/node_modules/graphql-binding/node_modules/.bin/ts-node" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-binding/node_modules/graphql-tools/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/graphql-binding/node_modules/graphql-tools/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/apollo-codegen" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/apollo-codegen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/disparity" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/disparity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/graphql-schema-linter" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/graphql-schema-linter" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/npm-run" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/npm-run" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/parse-github-url" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/parse-github-url" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/cross-spawn/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/cross-spawn/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/cross-spawn/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/graphql-cli/node_modules/cross-spawn/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-config-extension-openapi/node_modules/.bin/swagger-to-graphql" afterPath="$PROJECT_DIR$/server/node_modules/graphql-config-extension-openapi/node_modules/.bin/swagger-to-graphql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-config/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/graphql-config/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-playground-html/node_modules/graphql-config/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/graphql-playground-html/node_modules/graphql-config/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-playground-middleware-lambda/node_modules/.bin/lambda" afterPath="$PROJECT_DIR$/server/node_modules/graphql-playground-middleware-lambda/node_modules/.bin/lambda" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-tools/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/graphql-tools/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-yoga/node_modules/.bin/lambda" afterPath="$PROJECT_DIR$/server/node_modules/graphql-yoga/node_modules/.bin/lambda" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/graphql-yoga/node_modules/graphql-tools/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/graphql-yoga/node_modules/graphql-tools/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-conv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-sign" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/server/node_modules/http-signature/node_modules/.bin/sshpk-verify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/js-yaml/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/server/node_modules/js-yaml/node_modules/.bin/esparse" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/js-yaml/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/server/node_modules/js-yaml/node_modules/.bin/esvalidate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/json-schema-ref-parser/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/json-schema-ref-parser/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/json-schema-ref-parser/node_modules/.bin/z-schema" afterPath="$PROJECT_DIR$/server/node_modules/json-schema-ref-parser/node_modules/.bin/z-schema" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/marked-terminal/node_modules/.bin/cdl" afterPath="$PROJECT_DIR$/server/node_modules/marked-terminal/node_modules/.bin/cdl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/marked-terminal/node_modules/.bin/marked" afterPath="$PROJECT_DIR$/server/node_modules/marked-terminal/node_modules/.bin/marked" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/normalize-package-data/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/normalize-package-data/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-path/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/npm-path/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-run-all/node_modules/cross-spawn/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/npm-run-all/node_modules/cross-spawn/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-run-all/node_modules/cross-spawn/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/npm-run-all/node_modules/cross-spawn/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-run/node_modules/.bin/npm-path" afterPath="$PROJECT_DIR$/server/node_modules/npm-run/node_modules/.bin/npm-path" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-run/node_modules/.bin/npm-which" afterPath="$PROJECT_DIR$/server/node_modules/npm-run/node_modules/.bin/npm-which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-which/node_modules/.bin/npm-path" afterPath="$PROJECT_DIR$/server/node_modules/npm-which/node_modules/.bin/npm-path" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/npm-which/node_modules/.bin/which" afterPath="$PROJECT_DIR$/server/node_modules/npm-which/node_modules/.bin/which" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/package-json/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/package-json/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/pg/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/pg/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/portfinder/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/server/node_modules/portfinder/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-binding/node_modules/.bin/graphql-binding" afterPath="$PROJECT_DIR$/server/node_modules/prisma-binding/node_modules/.bin/graphql-binding" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/npm-run" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/npm-run" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/graphql-config-extension-prisma/node_modules/prisma-yml/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/graphql-config-extension-prisma/node_modules/prisma-yml/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/prisma-yml/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-core/node_modules/prisma-yml/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/cdl" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/cdl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/marked" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/marked" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/raven" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/.bin/raven" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/prisma-yml/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-cli-engine/node_modules/prisma-yml/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-db-introspection/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-db-introspection/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma-yml/node_modules/.bin/js-yaml" afterPath="$PROJECT_DIR$/server/node_modules/prisma-yml/node_modules/.bin/js-yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/prisma/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/prisma/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/raven/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/raven/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/redeyed/node_modules/.bin/esparse" afterPath="$PROJECT_DIR$/server/node_modules/redeyed/node_modules/.bin/esparse" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/redeyed/node_modules/.bin/esvalidate" afterPath="$PROJECT_DIR$/server/node_modules/redeyed/node_modules/.bin/esvalidate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/registry-auth-token/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/server/node_modules/registry-auth-token/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/registry-url/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/server/node_modules/registry-url/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/request/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/server/node_modules/request/node_modules/.bin/uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/semver-diff/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/server/node_modules/semver-diff/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/send/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/server/node_modules/send/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/simple-errors/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/server/node_modules/simple-errors/node_modules/.bin/errno" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/CHANGELOG.md" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/README.md" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/browser/client.js" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/browser/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.d.ts" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.js" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.js.map" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/client.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/defaults.d.ts" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/defaults.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js.map" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/legacy/parse-legacy-protocol.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/protocol.d.ts" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/protocol.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.d.ts" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.js" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.js.map" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/server.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js.map" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/empty-iterable.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js.map" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/dist/utils/is-subscriptions.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/package.json" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/tslint.json" afterPath="$PROJECT_DIR$/server/node_modules/subscriptions-transport-ws/tslint.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ts-node/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/server/node_modules/ts-node/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/README.md" afterPath="$PROJECT_DIR$/server/node_modules/ws/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/index.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/lib/constants.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/lib/constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/lib/receiver.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/lib/receiver.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/lib/sender.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/lib/sender.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/lib/validation.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/lib/validation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/lib/websocket.js" afterPath="$PROJECT_DIR$/server/node_modules/ws/lib/websocket.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/node_modules/ws/package.json" afterPath="$PROJECT_DIR$/server/node_modules/ws/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.js" afterPath="$PROJECT_DIR$/src/components/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header.js" afterPath="$PROJECT_DIR$/src/components/Header.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -126,213 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mutation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/resolvers/Mutation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Search.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="64" column="25" lean-forward="false" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <marker date="1536040827000" expanded="true" signature="175:625" ph="query...{&#10;        feed(filter: $filter) {&#10;            links {&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }&#10;        }&#10;    }" />
-                <marker date="1536040827000" expanded="true" signature="181:196" ph="FeedSearchQuery...FeedSearchQuery" />
-                <marker date="1536040827000" expanded="true" signature="196:214" ph="(...)" />
-                <marker date="1536040827000" expanded="true" signature="206:212" ph="String...String" />
-                <marker date="1536040827000" expanded="true" signature="215:625" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="225:229" ph="feed...feed" />
-                <marker date="1536040827000" expanded="true" signature="225:619" ph="feed...{&#10;            links {&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }&#10;        }" />
-                <marker date="1536040827000" expanded="true" signature="229:246" ph="(...)" />
-                <marker date="1536040827000" expanded="true" signature="230:236" ph="filter...filter" />
-                <marker date="1536040827000" expanded="true" signature="247:619" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="261:266" ph="links...links" />
-                <marker date="1536040827000" expanded="true" signature="261:609" ph="links...{&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }" />
-                <marker date="1536040827000" expanded="true" signature="267:609" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="285:287" ph="id...id" />
-                <marker date="1536040827000" expanded="true" signature="304:307" ph="url...url" />
-                <marker date="1536040827000" expanded="true" signature="324:335" ph="description...description" />
-                <marker date="1536040827000" expanded="true" signature="352:361" ph="createdAt...createdAt" />
-                <marker date="1536040827000" expanded="true" signature="378:386" ph="postedBy...postedBy" />
-                <marker date="1536040827000" expanded="true" signature="378:454" ph="postedBy...{&#10;                    id&#10;                    name&#10;                }" />
-                <marker date="1536040827000" expanded="true" signature="387:454" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="409:411" ph="id...id" />
-                <marker date="1536040827000" expanded="true" signature="432:436" ph="name...name" />
-                <marker date="1536040827000" expanded="true" signature="471:476" ph="votes...votes" />
-                <marker date="1536040827000" expanded="true" signature="471:595" ph="votes...{&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }" />
-                <marker date="1536040827000" expanded="true" signature="477:595" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="499:501" ph="id...id" />
-                <marker date="1536040827000" expanded="true" signature="522:526" ph="user...user" />
-                <marker date="1536040827000" expanded="true" signature="522:577" ph="user...{&#10;                        id&#10;                    }" />
-                <marker date="1536040827000" expanded="true" signature="527:577" ph="{...}" />
-                <marker date="1536040827000" expanded="true" signature="553:555" ph="id...id" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateLink.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/CreateLink.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <marker date="1536039953000" expanded="true" signature="1748:1769" ph="&lt;Mutation/&gt;" />
-                <marker date="1536039953000" expanded="true" signature="1748:1784" ph="&lt;div/&gt;" />
-                <marker date="1536039953000" expanded="true" signature="1748:1794" ph="{...}" />
-                <marker date="1536039953000" expanded="true" signature="1748:1796" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2160">
-              <caret line="83" column="3" lean-forward="false" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-                <marker date="1535874451000" expanded="true" signature="187:365" ph="mutation...{&#10;        signup(email: $email, password: $password, name: $name) {&#10;            token&#10;        }&#10;    }" />
-                <marker date="1535874451000" expanded="true" signature="196:210" ph="SignupMutation...SignupMutation" />
-                <marker date="1535874451000" expanded="true" signature="210:263" ph="(...)" />
-                <marker date="1535874451000" expanded="true" signature="219:225" ph="String...String" />
-                <marker date="1535874451000" expanded="true" signature="239:245" ph="String...String" />
-                <marker date="1535874451000" expanded="true" signature="255:261" ph="String...String" />
-                <marker date="1535874451000" expanded="true" signature="264:365" ph="{...}" />
-                <marker date="1535874451000" expanded="true" signature="274:280" ph="signup...signup" />
-                <marker date="1535874451000" expanded="true" signature="274:359" ph="signup...{&#10;            token&#10;        }" />
-                <marker date="1535874451000" expanded="true" signature="280:329" ph="(...)" />
-                <marker date="1535874451000" expanded="true" signature="281:286" ph="email...email" />
-                <marker date="1535874451000" expanded="true" signature="296:304" ph="password...password" />
-                <marker date="1535874451000" expanded="true" signature="317:321" ph="name...name" />
-                <marker date="1535874451000" expanded="true" signature="330:359" ph="{...}" />
-                <marker date="1535874451000" expanded="true" signature="344:349" ph="token...token" />
-                <marker date="1535874451000" expanded="true" signature="401:548" ph="mutation...{&#10;        login(email: $email, password: $password) {&#10;            token&#10;        }&#10;    }" />
-                <marker date="1535874451000" expanded="true" signature="410:423" ph="LoginMutation...LoginMutation" />
-                <marker date="1535874451000" expanded="true" signature="423:460" ph="(...)" />
-                <marker date="1535874451000" expanded="true" signature="432:438" ph="String...String" />
-                <marker date="1535874451000" expanded="true" signature="452:458" ph="String...String" />
-                <marker date="1535874451000" expanded="true" signature="461:548" ph="{...}" />
-                <marker date="1535874451000" expanded="true" signature="471:476" ph="login...login" />
-                <marker date="1535874451000" expanded="true" signature="471:542" ph="login...{&#10;            token&#10;        }" />
-                <marker date="1535874451000" expanded="true" signature="476:512" ph="(...)" />
-                <marker date="1535874451000" expanded="true" signature="477:482" ph="email...email" />
-                <marker date="1535874451000" expanded="true" signature="492:500" ph="password...password" />
-                <marker date="1535874451000" expanded="true" signature="513:542" ph="{...}" />
-                <marker date="1535874451000" expanded="true" signature="527:532" ph="token...token" />
-                <marker date="1535874451000" expanded="true" signature="586:702" ph="{...}" />
-                <marker date="1535874451000" expanded="true" signature="590:595" ph="state...state" />
-                <marker date="1535874451000" expanded="true" signature="611:615" ph="true...true" />
-                <marker date="1535874451000" expanded="true" signature="620:626" ph="switch...switch" />
-                <marker date="1535874451000" expanded="true" signature="627:634" ph="between...between" />
-                <marker date="1535874451000" expanded="true" signature="635:640" ph="Login...Login" />
-                <marker date="1535874451000" expanded="true" signature="641:644" ph="and...and" />
-                <marker date="1535874451000" expanded="true" signature="645:651" ph="SignUp...SignUp" />
-                <marker date="1535874451000" expanded="true" signature="671:679" ph="password...password" />
-                <marker date="1535874451000" expanded="true" signature="706:712" ph="render...render" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constants.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/constants.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>postMutation</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/styles/index.css" />
-        <option value="$PROJECT_DIR$/server/database/prisma.yml" />
-        <option value="$PROJECT_DIR$/server/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/Link.js" />
-        <option value="$PROJECT_DIR$/src/components/LinkList.js" />
-        <option value="/GraphQL Fragment (LinkList.js:157).graphql" />
-        <option value="$PROJECT_DIR$/src/constants.js" />
-        <option value="$PROJECT_DIR$/src/components/Login.js" />
-        <option value="$PROJECT_DIR$/src/components/CreateLink.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/server/src/resolvers/Mutation.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/components/search.js" />
-        <option value="$PROJECT_DIR$/src/components/App.js" />
-        <option value="$PROJECT_DIR$/src/components/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/Search.js" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -342,14 +37,13 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/server/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -365,6 +59,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -373,23 +69,10 @@
               <item name="hackernews-react-apollo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackernews-react-apollo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hackernews-react-apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackernews-react-apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackernews-react-apollo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackernews-react-apollo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,14 +80,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="com.intellij.lang.jsgraphql.ide.injection.JSGraphQLLanguageInjectionUtil.gql" value="apollo" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/macbook/Documents/hackernews-react-apollo/src/components/App.js" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/styles" />
-      <recent name="$PROJECT_DIR$/src/components" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -504,55 +179,45 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ad482f30-003f-4f82-b401-a3ea90d7b5bd" name="Default" comment="" />
-      <created>1535798988737</created>
+      <changelist id="9a88c0a6-25ab-4306-b6fa-8a0aa346501a" name="Default" comment="" />
+      <created>1537008327900</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1535798988737</updated>
-      <workItem from="1535798991780" duration="3329000" />
-      <workItem from="1535864935211" duration="3446000" />
+      <updated>1537008327900</updated>
+      <workItem from="1537008332809" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7716000" />
+    <option name="totallyTimeSpent" value="41000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="GraphQL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.738815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16380544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -562,525 +227,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/src/schema.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/generated/prisma.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3429">
-          <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LinkList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Feed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Subscription.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="83" column="3" lean-forward="false" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1535874451000" expanded="true" signature="187:365" ph="mutation...{&#10;        signup(email: $email, password: $password, name: $name) {&#10;            token&#10;        }&#10;    }" />
-            <marker date="1535874451000" expanded="true" signature="196:210" ph="SignupMutation...SignupMutation" />
-            <marker date="1535874451000" expanded="true" signature="210:263" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="219:225" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="239:245" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="255:261" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="264:365" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="274:280" ph="signup...signup" />
-            <marker date="1535874451000" expanded="true" signature="274:359" ph="signup...{&#10;            token&#10;        }" />
-            <marker date="1535874451000" expanded="true" signature="280:329" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="281:286" ph="email...email" />
-            <marker date="1535874451000" expanded="true" signature="296:304" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="317:321" ph="name...name" />
-            <marker date="1535874451000" expanded="true" signature="330:359" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="344:349" ph="token...token" />
-            <marker date="1535874451000" expanded="true" signature="401:548" ph="mutation...{&#10;        login(email: $email, password: $password) {&#10;            token&#10;        }&#10;    }" />
-            <marker date="1535874451000" expanded="true" signature="410:423" ph="LoginMutation...LoginMutation" />
-            <marker date="1535874451000" expanded="true" signature="423:460" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="432:438" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="452:458" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="461:548" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="471:476" ph="login...login" />
-            <marker date="1535874451000" expanded="true" signature="471:542" ph="login...{&#10;            token&#10;        }" />
-            <marker date="1535874451000" expanded="true" signature="476:512" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="477:482" ph="email...email" />
-            <marker date="1535874451000" expanded="true" signature="492:500" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="513:542" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="527:532" ph="token...token" />
-            <marker date="1535874451000" expanded="true" signature="586:702" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="590:595" ph="state...state" />
-            <marker date="1535874451000" expanded="true" signature="611:615" ph="true...true" />
-            <marker date="1535874451000" expanded="true" signature="620:626" ph="switch...switch" />
-            <marker date="1535874451000" expanded="true" signature="627:634" ph="between...between" />
-            <marker date="1535874451000" expanded="true" signature="635:640" ph="Login...Login" />
-            <marker date="1535874451000" expanded="true" signature="641:644" ph="and...and" />
-            <marker date="1535874451000" expanded="true" signature="645:651" ph="SignUp...SignUp" />
-            <marker date="1535874451000" expanded="true" signature="671:679" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="706:712" ph="render...render" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CreateLink.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1536039953000" expanded="true" signature="1748:1769" ph="&lt;Mutation/&gt;" />
-            <marker date="1536039953000" expanded="true" signature="1748:1784" ph="&lt;div/&gt;" />
-            <marker date="1536039953000" expanded="true" signature="1748:1794" ph="{...}" />
-            <marker date="1536039953000" expanded="true" signature="1748:1796" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Mutation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/prisma.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/schema.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/generated/prisma.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3429">
-          <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LinkList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/datamodel.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="89" lean-forward="false" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/datamodel.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/database/prisma.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/schema.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/generated/prisma.graphql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3429">
-          <caret line="127" column="38" lean-forward="false" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphql.schema.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LinkList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Link.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Query.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-212">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Feed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Subscription.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2160">
-          <caret line="83" column="3" lean-forward="false" selection-start-line="83" selection-start-column="3" selection-end-line="83" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1535874451000" expanded="true" signature="187:365" ph="mutation...{&#10;        signup(email: $email, password: $password, name: $name) {&#10;            token&#10;        }&#10;    }" />
-            <marker date="1535874451000" expanded="true" signature="196:210" ph="SignupMutation...SignupMutation" />
-            <marker date="1535874451000" expanded="true" signature="210:263" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="219:225" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="239:245" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="255:261" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="264:365" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="274:280" ph="signup...signup" />
-            <marker date="1535874451000" expanded="true" signature="274:359" ph="signup...{&#10;            token&#10;        }" />
-            <marker date="1535874451000" expanded="true" signature="280:329" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="281:286" ph="email...email" />
-            <marker date="1535874451000" expanded="true" signature="296:304" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="317:321" ph="name...name" />
-            <marker date="1535874451000" expanded="true" signature="330:359" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="344:349" ph="token...token" />
-            <marker date="1535874451000" expanded="true" signature="401:548" ph="mutation...{&#10;        login(email: $email, password: $password) {&#10;            token&#10;        }&#10;    }" />
-            <marker date="1535874451000" expanded="true" signature="410:423" ph="LoginMutation...LoginMutation" />
-            <marker date="1535874451000" expanded="true" signature="423:460" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="432:438" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="452:458" ph="String...String" />
-            <marker date="1535874451000" expanded="true" signature="461:548" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="471:476" ph="login...login" />
-            <marker date="1535874451000" expanded="true" signature="471:542" ph="login...{&#10;            token&#10;        }" />
-            <marker date="1535874451000" expanded="true" signature="476:512" ph="(...)" />
-            <marker date="1535874451000" expanded="true" signature="477:482" ph="email...email" />
-            <marker date="1535874451000" expanded="true" signature="492:500" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="513:542" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="527:532" ph="token...token" />
-            <marker date="1535874451000" expanded="true" signature="586:702" ph="{...}" />
-            <marker date="1535874451000" expanded="true" signature="590:595" ph="state...state" />
-            <marker date="1535874451000" expanded="true" signature="611:615" ph="true...true" />
-            <marker date="1535874451000" expanded="true" signature="620:626" ph="switch...switch" />
-            <marker date="1535874451000" expanded="true" signature="627:634" ph="between...between" />
-            <marker date="1535874451000" expanded="true" signature="635:640" ph="Login...Login" />
-            <marker date="1535874451000" expanded="true" signature="641:644" ph="and...and" />
-            <marker date="1535874451000" expanded="true" signature="645:651" ph="SignUp...SignUp" />
-            <marker date="1535874451000" expanded="true" signature="671:679" ph="password...password" />
-            <marker date="1535874451000" expanded="true" signature="706:712" ph="render...render" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/CreateLink.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1536039953000" expanded="true" signature="1748:1769" ph="&lt;Mutation/&gt;" />
-            <marker date="1536039953000" expanded="true" signature="1748:1784" ph="&lt;div/&gt;" />
-            <marker date="1536039953000" expanded="true" signature="1748:1794" ph="{...}" />
-            <marker date="1536039953000" expanded="true" signature="1748:1796" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/resolvers/Mutation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17269">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1536041197000" expanded="true" signature="89364:89381" ph="..." />
-            <marker date="1536041197000" expanded="true" signature="89364:89399" ph="..." />
-            <marker date="1536041197000" expanded="true" signature="89364:89412" ph="..." />
-            <marker date="1536041197000" expanded="true" signature="89364:89427" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="64" column="25" lean-forward="false" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1536040827000" expanded="true" signature="175:625" ph="query...{&#10;        feed(filter: $filter) {&#10;            links {&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }&#10;        }&#10;    }" />
-            <marker date="1536040827000" expanded="true" signature="181:196" ph="FeedSearchQuery...FeedSearchQuery" />
-            <marker date="1536040827000" expanded="true" signature="196:214" ph="(...)" />
-            <marker date="1536040827000" expanded="true" signature="206:212" ph="String...String" />
-            <marker date="1536040827000" expanded="true" signature="215:625" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="225:229" ph="feed...feed" />
-            <marker date="1536040827000" expanded="true" signature="225:619" ph="feed...{&#10;            links {&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }&#10;        }" />
-            <marker date="1536040827000" expanded="true" signature="229:246" ph="(...)" />
-            <marker date="1536040827000" expanded="true" signature="230:236" ph="filter...filter" />
-            <marker date="1536040827000" expanded="true" signature="247:619" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="261:266" ph="links...links" />
-            <marker date="1536040827000" expanded="true" signature="261:609" ph="links...{&#10;                id&#10;                url&#10;                description&#10;                createdAt&#10;                postedBy {&#10;                    id&#10;                    name&#10;                }&#10;                votes {&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }&#10;            }" />
-            <marker date="1536040827000" expanded="true" signature="267:609" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="285:287" ph="id...id" />
-            <marker date="1536040827000" expanded="true" signature="304:307" ph="url...url" />
-            <marker date="1536040827000" expanded="true" signature="324:335" ph="description...description" />
-            <marker date="1536040827000" expanded="true" signature="352:361" ph="createdAt...createdAt" />
-            <marker date="1536040827000" expanded="true" signature="378:386" ph="postedBy...postedBy" />
-            <marker date="1536040827000" expanded="true" signature="378:454" ph="postedBy...{&#10;                    id&#10;                    name&#10;                }" />
-            <marker date="1536040827000" expanded="true" signature="387:454" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="409:411" ph="id...id" />
-            <marker date="1536040827000" expanded="true" signature="432:436" ph="name...name" />
-            <marker date="1536040827000" expanded="true" signature="471:476" ph="votes...votes" />
-            <marker date="1536040827000" expanded="true" signature="471:595" ph="votes...{&#10;                    id&#10;                    user {&#10;                        id&#10;                    }&#10;                }" />
-            <marker date="1536040827000" expanded="true" signature="477:595" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="499:501" ph="id...id" />
-            <marker date="1536040827000" expanded="true" signature="522:526" ph="user...user" />
-            <marker date="1536040827000" expanded="true" signature="522:577" ph="user...{&#10;                        id&#10;                    }" />
-            <marker date="1536040827000" expanded="true" signature="527:577" ph="{...}" />
-            <marker date="1536040827000" expanded="true" signature="553:555" ph="id...id" />
-          </folding>
         </state>
       </provider>
     </entry>
